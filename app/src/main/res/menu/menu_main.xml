@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuDodaj"
+        android:title="Dodaj studenta" />
+    <item
+        android:id="@+id/menuObrisi"
+        android:title="Obrisi studenta" />
+    <item
+        android:id="@+id/menuAzuriraj"
+        android:title="Azuriraj studenta" />
+    <item
+        android:id="@+id/menuPozovi"
+        android:title="Pozovite centralu" />
+    <item
+        android:id="@+id/menuLokacija"
+        android:title="Nasa lokacija" />
+    <item
+        android:id="@+id/menuFit"
+        android:title="FIT" />
+    <item
+        android:id="@+id/menuFam"
+        android:title="FAM" />
+    <item
+        android:id="@+id/menuFdu"
+        android:title="FDU" />
+</menu>
